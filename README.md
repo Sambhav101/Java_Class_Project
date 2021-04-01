@@ -1,3 +1,4 @@
+
 # Java_Class_Project
 A simple java project built in Swing GUI that replicates the online pizza shop application
 
@@ -12,3 +13,5 @@ Java SDK 11 or more
 
 
 Some screenshots from the application
+
+<img width="850" alt="Screen Shot 2021-04-01 at 12 05 02 AM" src="https://user-images.githubusercontent.com/46661726/113242097-a3c53d80-929f-11eb-8068-ff87d84af515.png">
