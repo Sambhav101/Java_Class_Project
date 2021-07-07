@@ -1,5 +1,5 @@
 
-# Java_Class_Project
+# Pizza_Shop:
 A simple java project built in Swing GUI that replicates the online pizza shop application
 
 # Requirements:
